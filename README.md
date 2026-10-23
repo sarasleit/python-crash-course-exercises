@@ -1,6 +1,6 @@
 # python-crash-course-exercises
 
-# Python Crash Course — Exercises & Projects
+## Python Crash Course — Exercises & Projects
 
 This repository contains my personal Python exercises and practice files while studying *Python Crash Course* by Eric Matthes.
 
