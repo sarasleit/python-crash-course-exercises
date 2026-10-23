@@ -1,15 +1,15 @@
-# python-crash-course-exercises
+# 🐍 python-crash-course-exercises
 
-## Python Crash Course — Exercises & Projects
+## 📘 Python Crash Course — Exercises & Projects
 
 This repository contains my personal Python exercises and practice files while studying *Python Crash Course* by Eric Matthes.
 
-## Note
+## 📝 Note
 
 These exercises are part of my learning journey, so some solutions may contain mistakes or have room for improvement. I will continue reviewing and improving my code as I gain more experience with Python.
 
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 Part_01_Basics/
@@ -114,19 +114,19 @@ Part_01_Basics/
     └── dog_class.py
 ```
 
-## Progress
+## 📚 Progress
 
-- Chapter 2: Variables, Strings, and Numbers
-- Chapter 3: Introducing Lists
-- Chapter 4: Working with Lists
-- Chapter 5: If Statements
-- Chapter 6: Dictionaries
-- Chapter 7: User Input and While Loops
-- Chapter 9: Classes
+- Chapter 2: Variables, Strings, and Numbers ✅
+- Chapter 3: Introducing Lists ✅
+- Chapter 4: Working with Lists ✅
+- Chapter 5: If Statements ✅
+- Chapter 6: Dictionaries ✅
+- Chapter 7: User Input and While Loops ✅
+- Chapter 9: Classes ✅
 
-## Topics Practiced
+## 🧠 Topics Practiced
 
-- Variables and Data Types
+- Variables and Data Types 
 - Strings and String Methods
 - Lists and Tuples
 - Conditional Statements
@@ -135,7 +135,7 @@ Part_01_Basics/
 - User Input
 - Classes and Object-Oriented Programming
 
-## About
+## 👩‍💻 About
 
 This repository documents my Python learning journey through exercises and practice programs. More chapters and projects will be added as I continue studying.
 
