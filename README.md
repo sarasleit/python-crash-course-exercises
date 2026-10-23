@@ -1,3 +1,5 @@
+![Python Crash Course](https://img.shields.io/badge/Python-Crash_Course-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # 🐍 python-crash-course-exercises
 
 ## 📘 Python Crash Course — Exercises & Projects
